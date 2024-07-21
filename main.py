@@ -3,6 +3,7 @@ from src.json_saver import JSONSaver
 from src.txt_saver import TXTSaver
 from src.utils import user_choice_json, user_choice_txt
 
+
 def main():
     """ Запуск программы """
     user_input = input("Здравствуйте!\n"

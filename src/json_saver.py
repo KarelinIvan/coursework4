@@ -1,12 +1,14 @@
 import json
+from abc import ABCMeta
 
 from src.saver import Saver
 
 
-class JSONSaver(Saver):
+class JSONSaver(Saver, metaclass=ABCMeta):
     """
     Класс для записи в json-файл
     """
+
     def __init__(self, filename):
         """
         конструктор класса
