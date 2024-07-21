@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="072aab38-fbe6-45e0-990f-96957ae2c5c6" name="Changes" comment="Абстрактный класс для получения вакансии с hh.ru">
-      <change afterPath="$PROJECT_DIR$/src/hh_api.py" afterDir="false" />
+    <list default="true" id="072aab38-fbe6-45e0-990f-96957ae2c5c6" name="Changes" comment="Класс для подключения к hh.ru">
+      <change afterPath="$PROJECT_DIR$/data/vacancies.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/vacancies.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tests_data/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tests_data/test_json_saver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tests_data/test_txt_saver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tests_data/test_vacancy.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,13 +110,22 @@
       <option name="project" value="LOCAL" />
       <updated>1721547109842</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Класс для подключения к hh.ru">
+      <option name="closed" value="true" />
+      <created>1721548937498</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721548937498</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="структура" />
     <MESSAGE value="Абстрактный класс для получения вакансии с hh.ru" />
-    <option name="LAST_COMMIT_MESSAGE" value="Абстрактный класс для получения вакансии с hh.ru" />
+    <MESSAGE value="Класс для подключения к hh.ru" />
+    <option name="LAST_COMMIT_MESSAGE" value="Класс для подключения к hh.ru" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
