@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="072aab38-fbe6-45e0-990f-96957ae2c5c6" name="Changes" comment="main">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/get_vacancies.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/get_vacancies.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/json_saver.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/json_saver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vacancy.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/vacancy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test_json_saver.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_json_saver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test_txt_saver.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_txt_saver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test_vacancy.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_vacancy.py" afterDir="false" />
-    </list>
+    <list default="true" id="072aab38-fbe6-45e0-990f-96957ae2c5c6" name="Changes" comment="правка" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -155,7 +145,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721552732185</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="правка">
+      <option name="closed" value="true" />
+      <created>1721554375724</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1721554375724</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -164,7 +162,8 @@
     <MESSAGE value="Класс для подключения к hh.ru" />
     <MESSAGE value="test" />
     <MESSAGE value="main" />
-    <option name="LAST_COMMIT_MESSAGE" value="main" />
+    <MESSAGE value="правка" />
+    <option name="LAST_COMMIT_MESSAGE" value="правка" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
