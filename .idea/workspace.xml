@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="072aab38-fbe6-45e0-990f-96957ae2c5c6" name="Changes" comment="структура">
-      <change afterPath="$PROJECT_DIR$/src/get_vacancies.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/coursework4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/coursework4.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="072aab38-fbe6-45e0-990f-96957ae2c5c6" name="Changes" comment="Абстрактный класс для получения вакансии с hh.ru">
+      <change afterPath="$PROJECT_DIR$/src/hh_api.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,18 +28,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "KarelinIvan"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;KarelinIvan&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/KarelinIvan/coursework4.git",
-    "accountId": "53d40b2a-6dda-44e6-abb7-0d34194355e1"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/KarelinIvan/coursework4.git&quot;,
+    &quot;accountId&quot;: &quot;53d40b2a-6dda-44e6-abb7-0d34194355e1&quot;
   }
-}]]></component>
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -98,12 +96,21 @@
       <option name="project" value="LOCAL" />
       <updated>1721545922771</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Абстрактный класс для получения вакансии с hh.ru">
+      <option name="closed" value="true" />
+      <created>1721547109842</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721547109842</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="структура" />
-    <option name="LAST_COMMIT_MESSAGE" value="структура" />
+    <MESSAGE value="Абстрактный класс для получения вакансии с hh.ru" />
+    <option name="LAST_COMMIT_MESSAGE" value="Абстрактный класс для получения вакансии с hh.ru" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
